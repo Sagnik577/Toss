@@ -1,13 +1,23 @@
-.container {
+.carrier {
   width: 70%;
   margin: auto;
   text-align: center;
+  background-color: #393E46;
 }
 
 .dice {
   text-align: center;
   display: inline-block;
 
+}
+.btn{
+  background-color: green;
+  width: 10rem;
+  height: 2.5rem;
+  font-size: 1.5rem;
+  color: white;
+  text-align: center;
+  margin-top: 3rem;
 }
 
 body {
@@ -37,5 +47,6 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
+  background-color: #393E46;
 
 }
